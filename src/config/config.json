@@ -1,0 +1,42 @@
+{
+  "db": {
+    "development": {
+      "username": "",
+      "password": "",
+      "database": "",
+      "host": "",
+      "dialect": "postgres",
+      "port": 5432
+    },
+    "staging": {
+      "username": "",
+      "password": "",
+      "database": "",
+      "host": "",
+      "dialect": "postgres",
+      "port": 5432
+    },
+    "production": {
+      "username": "",
+      "password": "",
+      "database": "",
+      "host": "",
+      "dialect": "postgres",
+      "port": 5432
+    },
+    "staging_heroku": {
+      "username": "",
+      "password": "",
+      "database": "",
+      "host": "",
+      "dialect": "postgres",
+      "port": 5432
+    }
+  },
+  "env": {
+    "HOST": "",
+    "JWT_SECRET": "",
+    "KCC_GMAPS_API_KEY" : "",
+    "NODE_ENV": "production"
+  }
+}

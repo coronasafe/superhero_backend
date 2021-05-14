@@ -1,0 +1,764 @@
+[
+  [
+    "GH",
+    "ERNAKULAM GENERAL HOSPITAL",
+    "https://goo.gl/maps/fJ1dbZ9qFGd6Hn9f9",
+    "9.9720244,76.2815409"
+  ],
+  [
+    "GH",
+    "MUVATTUPUZHA GENERAL HOSPITAL",
+    "https://goo.gl/maps/ZGy67ZEqDa8R4L6i6",
+    "9.9793428,76.5797845"
+  ],
+  [
+    "DH",
+    "ALUVA DISTRICT HOSPITAL",
+    "https://goo.gl/maps/8s47roxi497dHzVNA",
+    "10.1051674,76.3549671"
+  ],
+  [
+    "W & C",
+    "WOMEN & CHILDRENS HOSPITAL, MATTANCHERRY",
+    "https://goo.gl/maps/55P12hcWuvWtRvMC9",
+    "9.9594238,76.2597641"
+  ],
+  [
+    "THQH",
+    "GOVT. MAHARAJAS THALUK HOOSPITAL, KARUVELIPPADY",
+    "https://goo.gl/maps/JBH7U2gvew3cS4Pw6",
+    "9.9434224,76.260586"
+  ],
+  [
+    "THQH",
+    "THALUK HEADQUARTERS HOSPITAL FORTKOCHI",
+    "https://goo.gl/maps/FJ1JpGnrAG83mt426",
+    "9.9658087,76.2456925"
+  ],
+  [
+    "THQH",
+    "THALUK HEADQUARTERS HOSPITAL, KOTHAMANGALAM",
+    "https://goo.gl/maps/Hk1YMgDFHZW9MJeP6",
+    "10.066038,76.61799"
+  ],
+  [
+    "THQH",
+    "THALUK HEADQUARTERS HOSPITAL, PARAVUR",
+    "https://goo.gl/maps/tZs2PHksjnyM9vFz6",
+    "10.1495958,76.2328819"
+  ],
+  [
+    "THQH",
+    "THALUK HEADQUARTERS HOSPITAL, PERUMBAVOOR",
+    "https://goo.gl/maps/EwwjkGj5RFkuyJQf8",
+    "10.1155951,76.4811973"
+  ],
+  [
+    "THQH",
+    "THALUK HEADQUARTERS HOSPITAL, THRIPUNITHURA",
+    "https://goo.gl/maps/csxkxSRnmGHZ4vY58",
+    "9.9424101,76.3463823"
+  ],
+  [
+    "TH",
+    "THALUK HOSPITAL, PIRAVOM",
+    "https://goo.gl/maps/QZc8FmvbTVHYVKTd6",
+    "9.8738762,76.4951909"
+  ],
+  [
+    "TH",
+    "DISTRICT TB CENTER, KARUVELIPADY",
+    "https://goo.gl/maps/kfqhEhw7xoPfqRXq6",
+    "9.9419465,76.2602593"
+  ],
+  [
+    "TH",
+    "THALUK HOSPITAL, ANGAMALY",
+    "https://goo.gl/maps/oYmzTBJ9aqdEckTQ9",
+    "10.1963971,76.3872049"
+  ],
+  [
+    "TH",
+    "THALUK HOSPITAL, NJARAKKAL",
+    "https://goo.gl/maps/cWhUYp7QrHGCGEnz8",
+    "10.042379,76.2225092"
+  ],
+  [
+    "TH",
+    "THALUK HOSPITAL,  PALLURUTHY",
+    "https://goo.gl/maps/EtzfsQQ1jmY4ei9Q9",
+    "9.9172858,76.2792932"
+  ],
+  [
+    "TH",
+    "THALUK HOSPITAL, PUTHENVELIKARA",
+    "https://goo.gl/maps/ma9kEW8L96CYa95u7",
+    "10.1853267,76.2461042"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, CHENGAMANAD",
+    "https://goo.gl/maps/1BXkZ22CFbLMTbfg9",
+    "10.1547184,76.3355881"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, EDAPALLY",
+    "https://goo.gl/maps/5nPfPUgfAW5nS72T7",
+    "10.0178979,76.3027277"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, EZHIKKARA",
+    "https://goo.gl/maps/jSRR41CEfGsLzYzS9",
+    "10.0953323,76.2342328"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, KADAYIRUPPU",
+    "https://goo.gl/maps/1RBffQ87ysUFtp9z5",
+    "10.0041684,76.456663"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, KALADY",
+    "https://goo.gl/maps/rN4GG7XZbSiDCkQz9",
+    "10.1690886,76.4324775"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, KEECHERY",
+    "https://goo.gl/maps/YsNqkwrjjFaezarAA",
+    "9.8402479,76.4156628"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, KOOTHATUKULAM",
+    "https://goo.gl/maps/6xoYJcFQDuzKvbYK6",
+    "9.8641629,76.5964594"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, KUMBALANGI",
+    "https://goo.gl/maps/ea3UX4qMdkzrM4VZ6",
+    "9.8804651,76.2869717"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, MALAYIDAMTHURUTH",
+    "https://goo.gl/maps/9oU1RbSovNtdnYKY7",
+    "10.073884,76.4142466"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, MALIPURAM",
+    "https://goo.gl/maps/QKxKnpYSG5k3A3E18",
+    "10.0191552,76.2250535"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, MOOTHAKUNNAM",
+    "https://goo.gl/maps/qsFphgJTjPxsuhEW8",
+    "10.1769933,76.1880475"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, MULANTHURUTHY",
+    "https://goo.gl/maps/W4jNDT2h94c6Kw439",
+    "9.9006133,76.3909543"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, NERIYAMANGALAM",
+    "https://goo.gl/maps/GWPq72MZNG6GawL87",
+    "10.0525531,76.772705"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, PAMPAKUDA",
+    "https://goo.gl/maps/Q1T6p1KJdFN9zdad6",
+    "9.9091137,76.5199873"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, PANDAPPILLY",
+    "https://goo.gl/maps/yrsggqg66CcComUU6",
+    "9.9103918,76.6075137"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, RAMAMANGALAM",
+    "https://goo.gl/maps/e4PsBTw6q6rXjwEP7",
+    "9.9449229,76.4909143"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, VADAVUCODE",
+    "https://goo.gl/maps/jbSsV3MYTagAbCJEA",
+    "9.9775131,76.4269324"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, VARAPETTY",
+    "https://goo.gl/maps/87dwaakh37A1NmWE7",
+    "10.0187435,76.6273642"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, VARAPUZHA",
+    "https://goo.gl/maps/Yaf8FWvac8erfbvz6",
+    "10.0698038,76.2760001"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, VENGOLA",
+    "https://goo.gl/maps/NGH2byyMsoniT4qy7",
+    "10.0752447,76.460005"
+  ],
+  [
+    "CHC",
+    "COMMUNITY HEALTH CENTER, VENGOOR",
+    "https://goo.gl/maps/cz1WiYsLoor6hnEV7",
+    "10.1477344,76.5417472"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, ARAKKUNAM",
+    "https://goo.gl/maps/cz1WiYsLoor6hnEV7",
+    "10.1477344,76.5417472"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER,  AYYAMPILLY",
+    "https://goo.gl/maps/KpRRgx3oTcCDLWek9",
+    "10.1268664,76.1977286"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, BINANIPURAM",
+    "https://goo.gl/maps/5g63h8aPmdP4aoYU8",
+    "10.0871936,76.3066628"
+  ],
+  [
+    "FHC",
+    "FAMILY HEALTH CENTER, CHERANELLOOR",
+    "https://goo.gl/maps/EZw38ZDHxNQUtYnGA",
+    "10.0600298,76.2893629"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, CHITTATTUKARA",
+    "https://goo.gl/maps/w1Zx9VJbRoz5TsBh9",
+    "10.1630877,76.2076112"
+  ],
+  [
+    "FHC",
+    "FAMILY HEALTH CENTER, CHOWARA",
+    "https://goo.gl/maps/QDs8Hhj2EoRyeYwa6",
+    "10.1346186,76.4039013"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, ELANJI",
+    "https://goo.gl/maps/P7pzdDiEQ2NVNHxb9",
+    "9.8302885,76.5445761"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, ELOOR",
+    "https://goo.gl/maps/MtninJtvKzgTUdkD8",
+    "10.0832553,76.2895225"
+  ],
+  [
+    "FHC",
+    "FAMILY HEALTH CENTER, EROOR",
+    "https://goo.gl/maps/8TeT4uQ2uL9LGW2X6",
+    "9.9769956,76.3347752"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, KADAVOOR",
+    "https://goo.gl/maps/qghsTkaAeRb5Sp4dA",
+    "9.9988393,76.7422673"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, KAKKANAD",
+    "https://goo.gl/maps/FCuHovwWHV4tmBZz8",
+    "10.0183655,76.350071"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, KALLOORKKAD",
+    "https://goo.gl/maps/yTFp8DgNiJW8HCBN8",
+    "9.9657855,76.6748386"
+  ],
+  [
+    "FHC",
+    "FAMILY HEALTH CENTER, KARUMALLOOR",
+    "https://goo.gl/maps/u9rFnnhP8LgdhiQj8",
+    "10.1305223,76.2926557"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, KEEZHMAD",
+    "https://goo.gl/maps/5bcn8yJ4oMc6oqcK8",
+    "10.1037187,76.3900681"
+  ],
+  [
+    "FHC",
+    "FAMILY HEALTH CENTER, KODANAD",
+    "https://goo.gl/maps/2PGQBtgrf4DDjcyt8",
+    "10.1831025,76.519764"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, KOONAMMAVU",
+    "https://goo.gl/maps/8psEyxC1gfpEkGLE7",
+    "10.1011576,76.265671"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, KUMARAPURAM",
+    "https://goo.gl/maps/VB65dXwm28S8fst39",
+    "10.0237896,76.4027452"
+  ],
+  [
+    "FHC",
+    "FAMILY HEALTH CENTER, KUTTAMPUZHA",
+    "https://goo.gl/maps/s7DuBqeoZDEMoeNt5",
+    "10.15346,76.7403577"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, MANJALLOOR",
+    "https://goo.gl/maps/efXhd3kCBnjEmevY6",
+    "9.943264,76.6391277"
+  ],
+  [
+    "FHC",
+    "FAMILY HEALTH CENTER, MAZHUVANNOOR",
+    "https://goo.gl/maps/PJpRwsGTGChT2ewC8",
+    "10.033094,76.5033666"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, MULAVUKAD",
+    "https://goo.gl/maps/qfqcaoAhDPQ2Efhb8",
+    "10.0118242,76.2606411"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, MUNAMBAM",
+    "https://goo.gl/maps/Pim3CKqmfEEFq6ev8",
+    "10.1696691,76.1818362"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, NETTOOR",
+    "https://goo.gl/maps/SaaKejCzX7hXATc19",
+    "9.91958,76.3126188"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, PALAKKUZHA",
+    "https://goo.gl/maps/mSxxuSSi1H1Lp18U6",
+    "9.8828682,76.6063209"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, PANANGAD",
+    "https://goo.gl/maps/Cxg6JecyACRrSBJZ7",
+    "9.9033296,76.3182241"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, PINDIMANA",
+    "https://goo.gl/maps/4upmkndarowF3ZZbA",
+    "10.1056285,76.6250206"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, PIZHALA",
+    "https://goo.gl/maps/TH4mHXQzdt1oGHfd7",
+    "10.0536042,76.2615135"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, POOTHOTTA",
+    "https://goo.gl/maps/Vh9dmkBT4cYaeKSD8",
+    "9.8523937,76.3848335"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, POOTHRIKKA",
+    "https://goo.gl/maps/KmBoPGTyhbycFWpj6",
+    "9.9544397,76.4510264"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, POTHANIKAD",
+    "https://goo.gl/maps/1SDLHUPbhweZoqwu6",
+    "10.0028701,76.7011021"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, RAYAMANGALAM",
+    "https://goo.gl/maps/JCbs7BqTrD1nGNPS7",
+    "10.0848116,76.5194904"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, THIRUVANIYOOR",
+    "https://goo.gl/maps/QHK6Lx8YLQ8cnuHB8",
+    "9.9346099,76.4243126"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, THURAVOOR",
+    "https://goo.gl/maps/zPBtfU96z9QD38bt6",
+    "10.2026422,76.4222234"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, VALAKOM",
+    "https://goo.gl/maps/w8JJSzY1psybLq588",
+    "9.9800278,76.5403171"
+  ],
+  [
+    "FHC",
+    "FAMILY HEALTH CENTER, VAZHAKULAM",
+    "https://goo.gl/maps/VnWiNHMxbKK1SovU7",
+    "10.1134462,76.4193575"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, ALANGAD",
+    "https://goo.gl/maps/TDnXxvFdweFHNGQB7",
+    "10.1168644,76.2718595"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, ASAMANNOOR",
+    "https://goo.gl/maps/zog8Shd3vyDTkPtf7",
+    "10.0928263,76.5558008"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, AVOLY",
+    "https://goo.gl/maps/pDJTpnJGT9K4X16A9",
+    "9.965804,76.6051669"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, AYAVANA",
+    "https://goo.gl/maps/LxKpZW5fsRRbvN9F7",
+    "9.9818524,76.6396208"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, AYYAMPUZHA",
+    "https://goo.gl/maps/7NhqE2ALxwjWTkxx6",
+    "10.2521187,76.4516366"
+  ],
+  [
+    "FHC",
+    "PRIMARY HEALTH CENTER, CHELLANAM",
+    "https://goo.gl/maps/M7DL2GC2rk8iTmTz9",
+    "9.7978563,76.2778582"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, CHERUVATTOOR",
+    "https://goo.gl/maps/3aaM2tA5bATGj5dr8",
+    "10.0456659,76.5840877"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, CHOORNIKARA",
+    "https://goo.gl/maps/yUhSequwb7j7kYr56",
+    "10.0819471,76.3463927"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, CHOTTANIKKARA",
+    "https://goo.gl/maps/mJ5ZFANjTyJZYNqh6",
+    "9.9201222,76.3931949"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, EDATHALA",
+    "https://goo.gl/maps/BWukLTub1mVRQzAN6",
+    "10.0734146,76.380845"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, EDAVANAKAD",
+    "https://goo.gl/maps/FXT6jdh1TysutZwR6",
+    "10.0982899,76.2058064"
+  ],
+  [
+    "FHC",
+    "PRIMARY HEALTH CENTER, GOTHURUTH",
+    "https://goo.gl/maps/bnosPgQMKfizaoMg8",
+    "10.1890206,76.2170399"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, KADUNGALOOR",
+    "https://goo.gl/maps/gryS4XXKshYkj6BSA",
+    "10.1061398,76.3220758"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, KALAMASSERY",
+    "https://goo.gl/maps/fuWsPUdj99D5ruV58",
+    "10.0566826,76.3230427"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, KANDAKADAVU",
+    "https://goo.gl/maps/22qE2y4xaRLfBdRj9",
+    "9.8485493,76.2675076"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, KANJOOR",
+    "https://goo.gl/maps/uncQCQdQtb3pUYwaA",
+    "10.1389006,76.4311016"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, KOTTAPPADY",
+    "https://goo.gl/maps/UG7xzY8CY6xCsBmT6",
+    "10.116638,76.5874274"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, KUNNUKARA",
+    "https://goo.gl/maps/zh79ivtvhzHQtncY8",
+    "10.1556662,76.2952913"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, MALAYATTOOR",
+    "https://goo.gl/maps/nbZzb54gShJG7f6U8",
+    "10.2043799,76.5279068"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, MANEED",
+    "https://goo.gl/maps/cmy65D6cbKRS9TAB9",
+    "9.9050672,76.4575119"
+  ],
+  [
+    "FHC",
+    "FAMILY HEALTH CENTER MANJAPRA",
+    "https://goo.gl/maps/QqusfTHwfC2o5Vvz9",
+    "10.211884,76.4511256"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, MARADY",
+    "https://goo.gl/maps/XDsyKPV3PJA5EsJu8",
+    "9.9519676,76.5566145"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, MOOKKANNOOR",
+    "10.23662, 76.42066",
+    "10.23662, 76.42066"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, MUDAKUZHA",
+    "https://goo.gl/maps/7CmgkEPXriWYHVAW8",
+    "10.1423299,76.5098789"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, NAYARAMBALAM",
+    "https://goo.gl/maps/q41J4SeMBW2CK1rm7",
+    "10.0577777,76.2010669"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, NEDUMBASSERY",
+    "https://goo.gl/maps/YaL37omEB9dspDbs6",
+    "10.1675478,76.3551639"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, OKKAL",
+    "https://goo.gl/maps/8KsAQb52CNuEhd2J6",
+    "10.1648282,76.465755"
+  ],
+  [
+    "FHC",
+    "FAMILY HEALTH CENTER, PAIPRA",
+    "10.02981, 76.55007",
+    "10.02981, 76.55007"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, PALISSERY",
+    "https://goo.gl/maps/hY7ZhDEmXjuGK3uC6",
+    "10.2745495,76.4128294"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, PARAKKADAVU",
+    "https://goo.gl/maps/XzJG7tyY1v3s8Qnb9",
+    "10.1965594,76.3479544"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, PATTIMATTOM",
+    "https://goo.gl/maps/H2tXJSKSDEyKaC6t5",
+    "10.0239247,76.4447892"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, PUNNEKKAD",
+    "10.10676, 76.67029",
+    "10.10676, 76.67029"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, PUTHUVYPE",
+    "https://goo.gl/maps/usyUzs99gbE26WoSA",
+    "9.998033,76.2217719"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, THIRUMARADY",
+    "https://goo.gl/maps/RLgzEg4Qojei5PgQ8",
+    "9.8880255,76.5504556"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, THIRUVAMKULAM",
+    "https://goo.gl/maps/1HP7QRfsxzZtks4eA",
+    "9.954589,76.394731"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, THRIKAKARA",
+    "https://goo.gl/maps/18eJieqg942Y9rTh9",
+    "10.0221408,76.3319879"
+  ],
+  [
+    "PHC",
+    "R V PALACE DISPENSARY TRIPUNITHARA",
+    "https://goo.gl/maps/KJWitQpkyMNU4i8o7",
+    "9.9321393,76.3563249"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, THOTTOOR",
+    "https://goo.gl/maps/oKYxoQ7AjoeFKN6PA",
+    "9.848919,76.454421"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, UDAYAMPEROOR",
+    "https://goo.gl/maps/VituM1o2hmUZn2ur5",
+    "9.9000776,76.362374"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, VALANTHAKAD",
+    "https://goo.gl/maps/1gQKn1XyTXchuQMZ8",
+    "9.9199755,76.3276089"
+  ],
+  [
+    "PHC",
+    "PRIMARY HEALTH CENTER, VALLARPADOM",
+    "https://goo.gl/maps/djzAB6UNYjwRgxnj6",
+    "10.0008206,76.2452721"
+  ],
+  [
+    "PHC",
+    "GOVT. DISPENSARY,  HIGH COURT",
+    "https://goo.gl/maps/CeGk6TNRZyVyA6qc8",
+    "9.9863175,76.2750655"
+  ],
+  [
+    "UPHC",
+    "Urban Primary Health Center, Chambakkara",
+    "https://goo.gl/maps/691zc1H7QyYsVTXX9",
+    "9.9542948,76.3289071"
+  ],
+  [
+    "UPHC",
+    "Urban Primary Health Center, Edakochi",
+    "https://goo.gl/maps/1Y1sZ6fMWL9iGnDH7",
+    "9.908869,76.29456"
+  ],
+  [
+    "UPHC",
+    "Urban Primary Health Center, Kadavantra",
+    "https://goo.gl/maps/9NXjZeCd8UyzyaNN7",
+    "9.9648933,76.308245"
+  ],
+  [
+    "UPHC",
+    "Urban Primary Health Center, Kaloor",
+    "https://g.page/UPHCKALOOR?share",
+    ","
+  ],
+  [
+    "UPHC",
+    "Urban Primary Health Center, Koothappady",
+    "https://goo.gl/maps/v1G4ssfh4JKfDpfU8",
+    "9.983451,76.3139507"
+  ],
+  [
+    "UPHC",
+    "Urban Primary Health Center, Mangattumukku",
+    "https://goo.gl/maps/4imkw2W4U1iBkQ7PA",
+    "9.9538718,76.2547949"
+  ],
+  [
+    "UPHC",
+    "Urban Primary Health Center, Pandikkudi",
+    "https://goo.gl/maps/2TwfakWTDpedWvem6",
+    "9.9509495,76.2493826"
+  ],
+  [
+    "UPHC",
+    "Urban Primary Health Center, Ponnurunni",
+    "https://goo.gl/maps/c3ZrkucJZxgzzsDg7",
+    "9.9800579,76.3203176"
+  ],
+  [
+    "UPHC",
+    "Urban Primary Health Center, Thrikkakara",
+    "https://goo.gl/maps/5Skts3sQnyMXgk1QA",
+    "10.0199279,76.3170408"
+  ],
+  [
+    "UPHC",
+    "Urban Primary Health Center, Thrippunithura",
+    "https://goo.gl/maps/4z7JJ7g3qfntjWVL7",
+    "9.9587142,76.3567888"
+  ],
+  [
+    "UPHC",
+    "Urban Primary Health Center, Vennala",
+    "https://goo.gl/maps/tXwS7m44Z8tpDofH6",
+    "10.0012342,76.3194976"
+  ],
+  [
+    "UPHC",
+    "Urban Primary Health Center, Moolamkuzhy",
+    "",
+    "9.9358913,76.2540382"
+  ],
+  [
+    "UPHC",
+    "Urban Primary Health Center, Thammanam",
+    "https://goo.gl/maps/KDMTq5e2mb5eR3Cr8",
+    "9.9896484,76.3067183"
+  ]
+]
